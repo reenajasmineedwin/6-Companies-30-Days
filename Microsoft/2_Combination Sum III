@@ -14,8 +14,3 @@ class Solution:
                     
         backtrack(0,[],n)
         return res
-     
-    
-         
-
-                
